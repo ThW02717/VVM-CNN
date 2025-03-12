@@ -5,7 +5,7 @@ This project uses a simple 1D Convolutional Neural Network (CNN) built with PyTo
 ## What It Does
 
 - **Data Loading & Preprocessing:**  
-  Loads data from a NumPy file (`hw081.npy`) that contains several features (like tke, enst, and θ) and prepares them for the model. The target is the change in θ over time.
+  Loads data from a NumPy file (`data.npy`) that contains several features (like tke, enst, and θ) and prepares them for the model. The target is the change in θ over time.
 
 - **Model Architecture:**  
   The 1D CNN has:
